@@ -3,3 +3,14 @@
 ## Welcome to EmotionNet
 
 EmotionNet is an extensive and rigorously curated video dataset for facial emotion recognition. We're currently finalizing the dataset and expect to release more information about it at the end of November.
+
+
+## Citation
+
+```bibtex
+@misc{emotionnet2023,
+  title={},
+  author={},
+  year={2023},
+}
+```
