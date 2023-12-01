@@ -1,7 +1,7 @@
 # EmoVideoNet: A Comprehensive Video Dataset for Emotion Recognition
 
 
-# $${\color{red}\text{Latest\ News:\ Part\ of\ this\ dataset\ will\ be\ released\ NEXT\ WEEK !}}$$ $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified in This Week !}} $$
+# $${\color{red}\text{Latest\ News:\ Part\ of\ this\ dataset\ will\ be\ released\ in\ EARLY FEB 2024}}$$ $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified Later !}} $$
 
 ## Welcome to EmoVideoNet
 
