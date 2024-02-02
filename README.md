@@ -1,11 +1,13 @@
 # EmoVideoNet: A Comprehensive Video Dataset for Emotion Recognition
 
 
-# $${\color{red}\text{Latest\ News:\ Part\ of\ this\ dataset\ will\ be\ released\ in\ EARLY FEB 2024}}$$ $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified Later !}} $$
+# $${\color{red}\text{Now our dataset preparation has been finished}}$$ 
+# $${\color{red}\text{We are on the Final Step: Label Validation}}$$ 
+# $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified Later !}} $$
 
 ## Welcome to EmoVideoNet
 
-Brought to you by the Medical Science Center Computer Vision Group at the University of Wisconsin Madison, EmoVideoNet is an extensive and rigorously curated video dataset aimed at transforming the field of emotion recognition. This dataset features more than 5,000 short video clips, each carefully annotated to represent a range of human emotions. EmoVideoNet stands at the intersection of Cognitive Science, Psychology, Computer Science, and Medical Science, providing a unique tool for both research and application in these fields.
+EmoVideoNet is an extensive and rigorously curated video dataset aimed at transforming the field of emotion recognition. This dataset features more than 5,000 short video clips, each carefully annotated to represent a range of human emotions. EmoVideoNet stands at the intersection of Cognitive Science, Psychology, Computer Science, and Medical Science, providing a unique tool for both research and application in these fields.
 
 ### Why EmoVideoNet?
 
@@ -51,9 +53,8 @@ If you use EmoVideoNet in your academic or industry research, please cite it as 
 ```bibtex
 @misc{emotionnet2023,
   title={EmoVideoNet: A Comprehensive Video Dataset for Emotion Recognition},
-  author={Peiran L, Linbo T, Xizheng Y. 
-Medical Science Center Computer Vision Group, University of Wisconsin Madison},
-  year={2023},
+  author={Peiran L, Linbo T, Xizheng Y. University of Wisconsin Madison},
+  year={2024},
   publisher={\url{https://github.com/PeiranLi0930}},
   journal={*},
   howpublished={\url{https://github.com/PeiranLi0930/emotionnet}},
