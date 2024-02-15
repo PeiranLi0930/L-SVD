@@ -7,7 +7,7 @@
 
 ## Welcome to ROSE
 
-ROSE is an extensive and rigorously curated video dataset aimed at transforming the field of emotion recognition. This dataset features more than 5,000 short video clips, each carefully annotated to represent a range of human emotions. ROSE stands at the intersection of Cognitive Science, Psychology, Computer Science, and Medical Science, providing a unique tool for both research and application in these fields.
+ROSE is an extensive and rigorously curated video dataset aimed at transforming the field of emotion recognition. This dataset features more than 20,000 short video clips, each carefully annotated to represent a range of human emotions. ROSE stands at the intersection of Cognitive Science, Psychology, Computer Science, and Medical Science, providing a unique tool for both research and application in these fields.
 
 ### Why ROSE?
 
