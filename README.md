@@ -1,40 +1,40 @@
-# ROSE: Recognition Of Selfie Emotions Dataset for Advancing Emotion Recognition Technologies
+# Large-Scale Uniform Selfie Video Dataset (L-USVD): A Benchmark for Emotion Recognition
 
 
 # $${\color{red}\text{Now our dataset preparation has been finished}}$$ 
 # $${\color{red}\text{We are on the Final Step: Label Validation}}$$ 
 # $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified Later !}} $$
 
-## Welcome to ROSE
+## Welcome to L-USVD
 
-ROSE is an extensive and rigorously curated video dataset aimed at transforming the field of emotion recognition. This dataset features more than 20,000 short video clips, each carefully annotated to represent a range of human emotions. ROSE stands at the intersection of Cognitive Science, Psychology, Computer Science, and Medical Science, providing a unique tool for both research and application in these fields.
+L-USVD is an extensive and rigorously curated video dataset aimed at transforming the field of emotion recognition. This dataset features more than 20,000 short video clips, each carefully annotated to represent a range of human emotions. L-USVD stands at the intersection of Cognitive Science, Psychology, Computer Science, and Medical Science, providing a unique tool for both research and application in these fields.
 
-### Why ROSE?
+### Why L-USVD?
 
-Inspired by the revolutionary ImageNet, ROSE aspires to be a benchmark in the emotional AI space, offering meticulously labeled and consistently processed video data to the global research community.
+Inspired by the revolutionary ImageNet, L-USVD aspires to be a benchmark in the emotional AI space, offering meticulously labeled and consistently processed video data to the global research community.
 
 - **Rich Emotional Annotations:** Our dataset encompasses a spectrum of eight emotions—Anger, Contempt, Disgust, Enjoyment, Fear, Sadness, Surprise, and Neutral—each annotated with precision.
 - **Uniform Video Quality:** We ensure uniform hue, contrast, and brightness across all videos to provide a standard quality baseline for algorithm development.
-- **Exponential Growth and Community Driven:** ROSE is rapidly expanding, with new contributions regularly enhancing the depth and breadth of the dataset.
+- **Exponential Growth and Community Driven:** L-USVD is rapidly expanding, with new contributions regularly enhancing the depth and breadth of the dataset.
 
 ### Dataset Features
 
-- **Detailed Emotional Range:** ROSE covers a broad array of emotional states, meticulously labeled for accurate recognition.
+- **Detailed Emotional Range:** L-USVD covers a broad array of emotional states, meticulously labeled for accurate recognition.
 - **Pre-Processed for Excellence:** All clips are pre-processed to ensure high fidelity and uniformity, setting a high standard for training data quality.
 - **Inviting Global Contributions:** We encourage contributions from researchers and practitioners around the world to help grow and diversify the dataset.
 
 ### How to Contribute
 
-Contributions are vital for ROSE to thrive. For instructions on how to contribute, please visit our [contribution guidelines](#).
+Contributions are vital for L-USVD to thrive. For instructions on how to contribute, please visit our [contribution guidelines](#).
 
 ### Getting Started
 
-For information on how to access and use ROSE for your research or applications, please consult our [usage documentation](#).
+For information on how to access and use L-USVD for your research or applications, please consult our [usage documentation](#).
 
 ### Usage Example
 
 ```python
-# Example code to load the ROSE dataset
+# Example code to load the L-USVD dataset
 
 import emotionnet
 
@@ -48,11 +48,11 @@ for video in dataset:
 ```
 
 ### Citation
-If you use ROSE in your academic or industry research, please cite it as follows:
+If you use L-USVD in your academic or industry research, please cite it as follows:
 
 ```bibtex
 @misc{emotionnet2023,
-  title={ROSE: A Comprehensive Video Dataset for Emotion Recognition},
+  title={L-USVD: A Comprehensive Video Dataset for Emotion Recognition},
   author={Peiran L, Linbo T, Xizheng Y. University of Wisconsin Madison},
   year={2024},
   publisher={\url{https://github.com/PeiranLi0930}},
@@ -62,7 +62,7 @@ If you use ROSE in your academic or industry research, please cite it as follows
 ```
 
 ### License
-ROSE is released under the [BSD-3-Clause license](LICENSE).
+L-USVD is released under the [BSD-3-Clause license](LICENSE).
 
 ### Contact
 For support or further inquiries, please contact us at [pli258@wisc.edu](mailto:pli258@wisc.edu).
