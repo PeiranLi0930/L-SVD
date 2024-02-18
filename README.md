@@ -1,7 +1,9 @@
 # Large-Scale Selfie Video Dataset (L-SVD): A Benchmark for Emotion Recognition
 
 ## $${\color{red}\text{We are releasing the dataset in batches}}$$ 
-#### $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified Later !}} $$
+## Validated Batch 1: [Link](https://drive.google.com/drive/folders/1alXjtSisiDHY3akoReIU6V2AzbvW0rau?usp=sharing)$${\color{navy}\text{Note: Please specify your Contact Info and Affiliation(s) when requesting access}} $$
+
+## $${\color{blue}\text{Specific Usage and Way to Contribute Will be Specified Later !}} $$
 
 ## Welcome to L-SVD
 
