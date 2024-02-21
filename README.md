@@ -9,6 +9,8 @@
 
 L-SVD is a comprehensive and meticulously curated video dataset designed to revolutionize the field of emotion recognition. With over 20,000 short video clips, each precisely annotated to reflect a wide range of human emotions, L-SVD serves as a pivotal resource at the confluence of Cognitive Science, Psychology, Computer Science, and Medical Science. Our dataset is crafted to advance research and applications within these dynamic fields, offering an unparalleled tool for innovation and discovery.
 
+**[Github Repository](https://github.com/PeiranLi0930/L-SVD)** <br/>  **[HuggingFace Dataset](https://huggingface.co/datasets/peiranli0930/L-SVD)** <br/> **[Papers With Code](https://paperswithcode.com/dataset/l-svd)**
+
 ### Why L-SVD?
 
 Drawing inspiration from the transformative ImageNet, L-SVD aims to establish itself as a cornerstone in the domain of emotional AI. We provide the global research community with a dataset characterized by its detailed labeling and uniform processing standards, ensuring high-quality video data for cutting-edge research and development.
