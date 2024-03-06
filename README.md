@@ -1,7 +1,9 @@
 # Large-Scale Selfie Video Dataset (L-SVD): A Benchmark for Emotion Recognition
 
 ## $${\color{red}\text{We are releasing the dataset in batches}}$$
-## Validated Batch 1 and 2: [Google Drive(Recommend)](https://drive.google.com/drive/folders/1alXjtSisiDHY3akoReIU6V2AzbvW0rau?usp=sharing) or [HuggingFace](https://huggingface.co/datasets/peiranli0930/L-SVD)<br/>  $${\color{navy}\text{Note: Please specify your Contact Info and Affiliation(s) when requesting access}} $$
+## Validated Batch 1 and 2: [Google Drive(Recommend)](https://drive.google.com/drive/folders/1alXjtSisiDHY3akoReIU6V2AzbvW0rau?usp=sharing) <br/>  $${\color{navy}\text{Note: Please specify your Contact Info and Affiliation(s) when requesting access}}$$
+
+### Our HuggingFace file system encourtered some issues. Please use GoogleDrive to retrieve the source files. 
 
 
 
